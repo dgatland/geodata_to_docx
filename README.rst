@@ -24,7 +24,7 @@ Notes
 Changes
 =======
 
-1.0.0, YYYY-MM-DD
+1.0.0, 2023-11-08
 -----------------
 - First release of example code
 

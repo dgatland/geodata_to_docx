@@ -1,3 +1,5 @@
+from __future__ import annotations # for Python3.9 type hinting compatibility
+
 import pathlib as pl
 
 import geopandas as gpd
