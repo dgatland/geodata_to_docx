@@ -4,7 +4,7 @@ version = "0.1.0"
 description = ""
 authors = ["Danielle Gatland"]
 license = "MIT License"
-readme = "README.md"
+readme = "README.rst"
 packages = []
 
 [tool.poetry.dependencies]
